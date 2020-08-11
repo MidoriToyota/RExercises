@@ -2,7 +2,7 @@
 
 Repositório com exercícios de diversos assuntos em R.
 
-### *01-Exercicio_APRIORI_1*
+**_01-Exercicio_APRIORI_1_**
 
 Reprodução do problema resolvido por Rizka Yolanda no seguinte artigo:
 
@@ -12,13 +12,14 @@ O artigo do Jie Wang foi base para compreensão dos objetos da classe transactio
 
 https://www.jdatalab.com/data_science_and_data_mining/2018/10/10/association-rule-transactions-class.html
 
-### *02-Exercicio_APRIORI_2*
+
+**_02-Exercicio_APRIORI_2_**
 
 Reprodução do problema resolvido por Hafsa Jabeen do Datacamp no seguinte artigo:
 
 https://www.datacamp.com/community/tutorials/market-basket-analysis-r
 
-### *03-Exercicio_XGBoost_1*
+**_03-Exercicio_XGBoost_1_**
 
 Reprodução do exercício resolvido pelo criador do algorítimo XGBoost, Tong He, no vídeo abaixo:
 
